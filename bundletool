@@ -1,0 +1,3 @@
+#!/bin/sh
+java -jar "$MY_SCRIPTS_ROOT/bin/bundletool-all-0.11.0.jar" $@
+
